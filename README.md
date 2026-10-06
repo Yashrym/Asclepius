@@ -27,5 +27,5 @@ DrugBank Drug Drug Interaction (DDI) Dataset
 
 Competition:
 
-IEEE CIS IIT - ModelX
+Finalist -  ModelX 2025 by  IEEE CIS IIT
 
