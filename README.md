@@ -25,4 +25,7 @@ Dataset:
 
 DrugBank Drug Drug Interaction (DDI) Dataset
 
+Competition:
+
+IEEE CIS IIT - ModelX
 
